@@ -1,0 +1,13 @@
+C:\Users\Flo\source\repos\fightGame\fightGame\bin\Debug\netcoreapp3.1\fightGame.exe
+C:\Users\Flo\source\repos\fightGame\fightGame\bin\Debug\netcoreapp3.1\fightGame.deps.json
+C:\Users\Flo\source\repos\fightGame\fightGame\bin\Debug\netcoreapp3.1\fightGame.runtimeconfig.json
+C:\Users\Flo\source\repos\fightGame\fightGame\bin\Debug\netcoreapp3.1\fightGame.runtimeconfig.dev.json
+C:\Users\Flo\source\repos\fightGame\fightGame\bin\Debug\netcoreapp3.1\fightGame.dll
+C:\Users\Flo\source\repos\fightGame\fightGame\bin\Debug\netcoreapp3.1\fightGame.pdb
+C:\Users\Flo\source\repos\fightGame\fightGame\obj\Debug\netcoreapp3.1\fightGame.csprojAssemblyReference.cache
+C:\Users\Flo\source\repos\fightGame\fightGame\obj\Debug\netcoreapp3.1\fightGame.AssemblyInfoInputs.cache
+C:\Users\Flo\source\repos\fightGame\fightGame\obj\Debug\netcoreapp3.1\fightGame.AssemblyInfo.cs
+C:\Users\Flo\source\repos\fightGame\fightGame\obj\Debug\netcoreapp3.1\fightGame.csproj.CoreCompileInputs.cache
+C:\Users\Flo\source\repos\fightGame\fightGame\obj\Debug\netcoreapp3.1\fightGame.dll
+C:\Users\Flo\source\repos\fightGame\fightGame\obj\Debug\netcoreapp3.1\fightGame.pdb
+C:\Users\Flo\source\repos\fightGame\fightGame\obj\Debug\netcoreapp3.1\fightGame.genruntimeconfig.cache
